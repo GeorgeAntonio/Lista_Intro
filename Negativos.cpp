@@ -12,5 +12,5 @@ int main(){
 		}
 		i++;									//Contador de entradas
 	}
-	std::cout<<"negativos:"<<c<<std::endl;	    //Impressão do total de entradas com valor negativo
+	std::cout<<c<<std::endl;	    //Impressão do total de entradas com valor negativo
 }
